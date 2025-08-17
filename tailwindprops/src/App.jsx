@@ -14,7 +14,7 @@ function App() {
 
   return (
     <>
-    <h1 className='bg-green-400 text-black p-4 rounded-xl'>Tailwind test</h1>
+    <h1 className='bg-blue-400 text-black p-4 rounded-xl'>Tailwind test</h1>
     <Card username="AbhiRamDathu" paraText="450/-" />
     <Card username="BhargavRamDathu" paraText="300/-" />
     </>
